@@ -1,18 +1,9 @@
-[![Build Status](https://travis-ci.org/jacklam718/react-native-popup-dialog.svg?branch=master)](https://travis-ci.org/jacklam718/react-native-popup-dialog)
-[![npm](https://img.shields.io/npm/dm/react-native-popup-dialog.svg)]()
-[![npm](https://img.shields.io/npm/v/react-native-popup-dialog.svg)]()
-
-## React Native Popup Dialog
-React Native Popup Dialog for iOS & Android.
-
-Another similar dialog component: [react-native-dialog-component](https://github.com/jacklam718/react-native-dialog-component) the main difference is style.
-
-Pull request are welcomed. Please follow [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
-
-#### How to thank me ?
-Just click on ⭐️ button 😘
-
-[Try it with Exponent](https://exp.host/@jacklam718/popup-dialog-example)<br>
+# Use Case
+- 弹出框
+  
+# Effect Picture
+  - 弹出弹出框效果
+  
 <img src="https://raw.githubusercontent.com/jacklam718/react-native-popup-dialog/master/.github/popup-dialog.png" width="200">
 <br>
 <br>
